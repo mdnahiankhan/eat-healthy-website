@@ -1,0 +1,93 @@
+body {
+    font-family: 'Poppins', sans-serif;
+
+}
+
+.color {
+    color: orange;
+}
+
+h1 {
+    font-family: 'Poppins', sans-serif;
+    font-size: 50px;
+}
+
+.half-width {
+    width: 50%;
+    padding: 3%;
+    content: initial;
+    justify-content: center;
+
+}
+
+
+.link-button {
+    text-decoration: none;
+    font-weight: 700;
+    background-image: linear-gradient(orange, tomato);
+    margin-top: 10%;
+    padding: 20px 60px;
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;
+    border-radius: 10px;
+
+}
+
+.half-width img {
+    width: 90%;
+    display: block;
+    margin: 0 auto;
+    border-radius: 10px;
+
+}
+
+.flexible-container {
+    display: flex;
+    margin-bottom: 40px;
+}
+
+.about {
+    background-image: url(images/Frame\ 59.jpg);
+    width: 100%;
+    background-repeat: no-repeat;
+
+}
+
+.B {
+    color: grey;
+    text-align: center;
+    font-size: 40px;
+}
+
+.Text {
+    text-align: center;
+}
+
+.picture {
+    box-shadow: 15px 15px 30px orange;
+    width: 90%;
+    margin-left: 10px;
+    margin-right: 5px;
+    border-radius: 10%;
+    padding-left: 10px;
+    padding-right: 10px;
+    justify-content: center;
+    border: 10px;
+}
+
+.t {
+    color: white;
+    text-align: center;
+    font-size: 15px;
+    background: 40%;
+}
+
+.content {
+    color: antiquewhite;
+    text-align: center;
+}
+
+.center {
+    background-color: black;
+}
